@@ -21,11 +21,19 @@
 }
 
 .gallery p {
+  background-color:black;
     text-align: center;
     margin-top: 0;
+  color: silver;
 }
+
+h1, p {
+  background-color:black;
+  color:gold;
+}
+
 body{
     text-align:center;
-    background:url(https://ae01.alicdn.com/kf/HTB1NazrRXXXXXbRXFXXq6xXFXXXU/HUAYI-New-Arrival-Photography-Backdrop-Food-Product-photography-background-Dark-old-wood-floordrop-shabby-wooden-backdrop.jpg);
+    background:url(https://trendingnewsbuzz.com/wp-content/uploads/2020/03/uplayplus_hero-scaled-1200x675.jpg);
     color:white;
 }
